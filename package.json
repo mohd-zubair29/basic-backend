@@ -1,0 +1,19 @@
+{
+  "name": "chai-deploy",
+  "version": "1.0.0",
+  "description": "A Basic Backend Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Mohd Zubair",
+  "license": "ISC",
+  "dependencies": {
+    "dot-env": "^0.0.1",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0"
+  }
+}
